@@ -2,10 +2,10 @@
 Quality Estimation of MT, related codes
 Some MT QE models and codes:
 
-eBLEU:
+eBLEU (experiments on English-Spanish):
 https://github.com/aaronlifenghan/aaron-project-ebleu
 
-HPPR:
+HPPR (experiments on English-French):
 https://github.com/aaronlifenghan/aaron-project-hppr
 
 
